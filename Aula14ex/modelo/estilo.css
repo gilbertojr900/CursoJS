@@ -24,3 +24,14 @@ footer {
     font-style: italic;
 
 }
+
+select {
+    padding: 5px;
+    margin: auto;
+}
+
+input {
+    padding: 5px;
+    margin: auto;
+}
+

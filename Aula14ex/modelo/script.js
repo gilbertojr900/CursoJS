@@ -18,3 +18,6 @@ function tabuada(){
     }
     
 }
+function limpar(){
+    seltab.innerHTML = ''
+}
